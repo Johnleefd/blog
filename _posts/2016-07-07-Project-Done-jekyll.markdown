@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  "Project done!"
 date:   2016-07-07 01:57:00 -0400

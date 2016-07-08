@@ -4,12 +4,46 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Um,,,forever alone?!.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+## Education
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+* Master's degree from University of Melbourne(Ongoing).
+* Bachelor's degree from Fudan University.
+
+## Roles
+
+Captain Communism lol~2333~
+
+## Skills
+
+* **Skill 1** - `English` / `Chinese` / `Korean` 
+* **Skill 2** - `C` / `C++` / `JS` / `PHP...`
+* **Skill 3** - `Skiing` / `Snow boarding` / `Ice skating`
+* **Skill 4** - `Eating` / `Sleeping` / `Thinking`
+ 
+    
+    
+## Achievements
+
+
+* [**This is my first achievement**](#) 
+   
+   Um...
+
+***
+
+* [**This is my second achievement**](#) 
+
+    Um...*10086
+
+***
+
+* [**This is my third achievement**](#) 
+
+   God damn it! T.T
+
+
+## Contact me
+
+[johnleefd2011@gmail.com](mailto:johnleefd2011@gmail.com)

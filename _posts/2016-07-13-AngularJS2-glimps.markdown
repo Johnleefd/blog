@@ -3,7 +3,7 @@ layout: post
 title: AngularJS Study Begin!
 author: John Lee
 ---
-After building a blog webpage using jekyll, I begin to learn the webdesign method --Angular JS.
+After building a blog webpage using jekyll, I begin to learn the webdesign method,Angular JS.
 
 ## Today's Harvest!
 -----

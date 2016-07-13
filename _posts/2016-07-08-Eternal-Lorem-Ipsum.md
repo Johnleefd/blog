@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Congratulation!   here
+title: Congratulation! 
 author: John Lee
 ---
 

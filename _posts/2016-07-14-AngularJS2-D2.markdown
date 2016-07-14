@@ -1,0 +1,24 @@
+---
+layout: post
+title: AngularJS2, The Second Day
+author: John Lee
+---
+Angular JS2 is quite confusing, but I think I can make it!.
+
+## Today's Harvest!
+-----
+
+First of all, I rewrite a small Angular JS2 project to check my memory and key information.
+And then I start a new project -- establish a web app which could receive contact information by service
+then show the details by clicking the name of people in the contact list. It does consume much time to do 
+this, because the service section is quite ambiguous to me and need time to digest.
+Anyway, this small app finally worked! And I tried to insert a vedio link in it to display media streams using
+video instruction. To test whether the video works properly or not, I searched for a mp4 resource, and one of
+a guy provided me a source link and the video section did worked! However, the content of the video was quite...
+por...um. Then I tried to copy media link from a media website and I succeed! I could play Game of Thrones in my 
+own website! But I'm not sure if there is any legal issue...
+
+Now I'm trying to upload my first image file to my blog!
+Let's see my Snorlax!
+
+![pokemon](http://localhost:4000/blog/images/pokemon.jpg)

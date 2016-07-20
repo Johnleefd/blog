@@ -21,4 +21,4 @@ own website! But I'm not sure if there is any legal issue...
 Now I'm trying to upload my first image file to my blog!
 Let's see my Snorlax!
 
-![pokemon](http://localhost:4000/blog/images/pokemon.jpg)
+![pokemon](https://johnleefd.github.io/blog//images/pokemon.jpg)

@@ -4,23 +4,23 @@ title: About
 permalink: /about/
 ---
 
-Um,,,forever alone?!.
+An Electrical Engineering student (Master by coursework) in Melbourne University(Australia).
+Graduated from Fudan University(China) with bachelor's degree of science, majoring in microelectronics.
+A newbie in web develope who is learning Angular 2.
+
 
 ## Education
 
-* Master's degree from University of Melbourne(Ongoing).
-* Bachelor's degree from Fudan University.
+* Master's degree from University of Melbourne(2016~).
+* Bachelor's degree from Fudan University(2011~2015).
 
-## Roles
-
-Captain Communism lol~2333~
 
 ## Skills
 
-* **Skill 1** - `English` / `Chinese` / `Korean` 
-* **Skill 2** - `C` / `C++` / `JS` / `PHP...`
-* **Skill 3** - `Skiing` / `Snow boarding` / `Ice skating`
-* **Skill 4** - `Eating` / `Sleeping` / `Thinking`
+* **Language** - `English` / `Chinese` / `Korean` / `little Japanese`
+* **Language?** - `C`  / `JS` / `Java`
+* **Sports** - `Skiing` / `Snow boarding` / `Ice skating`
+* **Hobby** - `Eating` / `Sleeping` / `Thinking`
  
     
     
@@ -29,19 +29,20 @@ Captain Communism lol~2333~
 
 * [**This is my first achievement**](#) 
    
-   Um...
+  Electronic Circuit designs. 
+    i.e. schemetic design on various CAD programs(including OrCAD,hSpice,Cadence Spectre,Protel) 
 
 ***
 
 * [**This is my second achievement**](#) 
 
-    Um...*10086
+   Deploying a blog website.(Yes, there it is :))
 
 ***
 
 * [**This is my third achievement**](#) 
 
-   God damn it! T.T
+   A web application which is able to fetch weather data from OpenWeatherMap by typing in city names.^^
 
 
 ## Contact me

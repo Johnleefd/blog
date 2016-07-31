@@ -17,10 +17,10 @@ A newbie in web develope who is learning Angular 2.
 
 ## Skills
 
-* **Language** - `English` / `Chinese` / `Korean` / `little Japanese`
+* **Language**  - `English` / `Chinese` / `Korean` / `little Japanese`
 * **Language?** - `C`  / `JS` / `Java`
-* **Sports** - `Skiing` / `Snow boarding` / `Ice skating`
-* **Hobby** - `Eating` / `Sleeping` / `Thinking`
+* **Sports**    - `Skiing` / `Snow boarding` / `Ice skating`
+* **Hobbies**   - `Music` / `Movie` / `Programming`
  
     
     
